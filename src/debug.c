@@ -95,8 +95,8 @@ void	debug_set_color(t_game_data *data)
 
 void	debug_set_texpath(t_game_data *data)
 {
-	data->tp.no_path = ft_strdup("./maps/texture/wall_north.xpm");
-	data->tp.so_path = ft_strdup("./maps/texture/wall_south.xpm");
-	data->tp.ea_path = ft_strdup("./maps/texture/wall_east.xpm");
-	data->tp.we_path = ft_strdup("./maps/texture/wall_west.xpm");
+	data->tp.no_path = ft_strdup("./texture/wall_north.xpm");
+	data->tp.so_path = ft_strdup("./texture/wall_south.xpm");
+	data->tp.ea_path = ft_strdup("./texture/wall_east.xpm");
+	data->tp.we_path = ft_strdup("./texture/wall_west.xpm");
 }

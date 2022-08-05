@@ -48,7 +48,7 @@
 # define T_PREFIX_SIZE 3
 # define C_PREFIX_SIZE 2
 
-# define DOOR_TEX_PATH "./maps/texture/door.xpm"
+# define DOOR_TEX_PATH "./texture/door.xpm"
 
 typedef enum e_part
 {
