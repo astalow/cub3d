@@ -46,7 +46,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra -Werror
 LIBFTDIR = ./libft
 LIBFT = ft
-MLXDIR	=	./minilibx
+MLXDIR	=	./minilibx-linux
 MLX = mlx
 INCLUDE = -I./include -I$(LIBFTDIR) -I$(MLXDIR)
 
