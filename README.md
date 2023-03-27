@@ -1,5 +1,6 @@
 # cub3d
 Wolfenstein 3Dのような3Dゲームを作成し、レイキャスティングについて学ぶ
+
 <img src="https://github.com/astalow/cub3d/blob/master/preview.png" width=700 height=600/>
 
 ## インストール・実行
