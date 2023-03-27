@@ -7,7 +7,7 @@ Wolfenstein 3Dのような3Dゲームを作成し、レイキャスティング�
 ```
   $ git clone --recursive https://github.com/astalow/cub3d
   $ cd cub3d
-  $ make
+  $ make bonus
   $ ./cub3D cub/ok01_subject.cub
 ```
 
